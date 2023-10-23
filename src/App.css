@@ -1,6 +1,74 @@
 .App {
-  display: flex;
-  justify-content: center;
   align-items: center;
-  height: 100vh;
+  background-image: linear-gradient(315deg, blueviolet, rgb(37, 172, 217));
+  color: aqua;
+  height: 800px;
+  width: 700px;
+  margin-left: 425px;
+  border-radius: 20px;
+}
+
+.new1 {
+  color: black;
+  padding-left: 200px;
+  padding-top: 20px;
+}
+
+.new2 {
+  padding-left: 240px;
+}
+
+.roles {
+  background-color: yellow;
+  margin-left: 70px;
+  color: black;
+  width: 200px;
+  height: 150px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+}
+.roles li {
+  margin: 5px;
+}
+
+.proj {
+  margin-left: 370px;
+  background-color: lightgreen;
+  padding: 5px;
+  margin-right: 60px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  color: black;
+}
+
+.roles p {
+  padding-left: 50px;
+}
+
+.contact {
+  margin-left: 70px;
+  height: 175px;
+  width: 250px;
+  color: black;
+  background-color: cyan;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+
+.etc {
+  background-color: darkblue;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.proj p {
+  padding-left: 75px;
+}
+
+.try1 {
+  padding-left: 85px;
 }
