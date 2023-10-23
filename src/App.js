@@ -1,11 +1,11 @@
-import "./App.css";
 import React from "react";
-import Screen from "./components/Appscreen";
+import "./App.css";
+import AgeCalculator from "./components/agecalculator";
 
 function App() {
   return (
-    <div>
-      <Screen />
+    <div className="App">
+      <AgeCalculator />
     </div>
   );
 }
