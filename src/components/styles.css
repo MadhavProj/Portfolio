@@ -1,0 +1,19 @@
+.display {
+  width: 70%;
+  height: 80vh;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.color-bar {
+  display: flex;
+  flex-wrap: wrap;
+  flex: row;
+  margin-bottom: 15px;
+}
+
+.color-box {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+}
